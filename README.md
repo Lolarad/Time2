@@ -1,5 +1,6 @@
 # Time2
 Time
+
 type Point = {
   x: number;
   y: number;
@@ -95,3 +96,5 @@ class VirtualNeuralNetwork {
 }
 
 // ... Rest of the AI and Main classes ...
+
+https://drive.google.com/file/d/1HXiAxli-ImTU5ryDSiOmL8ICaNKFvLYd/view?usp=drivesdk
